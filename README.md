@@ -9,8 +9,8 @@ The editor wants to run a series of feature stories about the health risks facin
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 
-![Image1](Images/Image1.png)
-![Image2](Images/Image2.png)
+![Image1](Images/Image1.PNG)
+![Image2](Images/Image2.PNG)
 
 
 ## Your Task
